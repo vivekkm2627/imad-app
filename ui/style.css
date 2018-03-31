@@ -26,7 +26,7 @@ body {
     font-size:50px;
     background-color:yellow;
     text-align:center;
-    border:10px;
+    border: red 10px;
     padding:50px;
 
     margin-left:500px;
