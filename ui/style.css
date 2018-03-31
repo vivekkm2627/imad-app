@@ -24,5 +24,7 @@ body {
     height:500px;
     color:red;
     font-size:150px;
+    background-color:rgba(77,252,157,0.5);
+    text-align:center;
 }
 
