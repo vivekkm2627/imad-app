@@ -21,10 +21,12 @@ body {
 }
 .vivek{
     width:500px;
-    height:500px;
-    color:red;
+    
+    color:rgba(72,152,221,0.5);
     font-size:50px;
     background-color:yellow;
     text-align:center;
+    padding:50px;
+    margin:50px;
 }
 
